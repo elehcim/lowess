@@ -1,5 +1,5 @@
 # lowess
-Comparison between different local regression implementation
+Comparison between different local regression implementations.
 
 
-See the notebok from here: https://nbviewer.jupyter.org/github/elehcim/lowess/blob/master/Lowess_comparison.ipynb
+See the notebook from here: https://nbviewer.jupyter.org/github/elehcim/lowess/blob/master/Lowess_comparison.ipynb
